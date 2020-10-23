@@ -61,6 +61,11 @@
 	    <classifier>jdk15</classifier>
 	</dependency>
 		
+	<dependency>
+		<groupId>net.sf.jasperreports</groupId>
+		<artifactId>jasperreports</artifactId>
+		<version>6.4.0</version>
+	</dependency>
 	
   </dependencies>
   <build>
